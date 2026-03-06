@@ -20,7 +20,7 @@ To deploy a Spring Boot application using AWS CodePipeline, the general process 
 
 **Step-by-Step Deployment (General Process):** 
 
-**1.** Set up the Application Environment: Create the target environment where your application will run. This is often done using Amazon ECS for containerized microservices.
+**1.** Set up the Application Environment: Create the target environment where your application will run. This is often done using Amazon EKS for containerized microservices.
 
 **2.** Configure Source Repository: Push your Spring Boot code to a version control system like  GitHub or  AWS CodeCommit
    
