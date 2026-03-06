@@ -7,6 +7,8 @@
 3. *Create the ECR with repository name and details:* https://youtu.be/bfW_LowB_Xo
 4. *Create Code Build Project with required configuration along with GitHub code pull access:* https://youtu.be/Z41rUwjkM2Y
 5. *Start the Code Build, Create Docker Image and push into ECR also get the logs in Cloud Watch:* https://youtu.be/IRQhSIju-tg
+
+
 6. *Create EKS Cluster with desired configuration:* https://youtu.be/v0gr93e2_Vk
 7. *EkS up and running:* https://youtu.be/QPNyoZwRJfA
 8. *Create a Code Pipeline and configure the stages like, Code Build to pull the code from Github Repo, build the code, create Docker Image and push into ECR and also deploy the code into ECS:* https://youtu.be/EMYredH2sJc
